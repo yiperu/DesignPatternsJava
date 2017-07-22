@@ -67,12 +67,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Coche.java" />
+        <option value="$PROJECT_DIR$/src/BuilderCoche.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="616" />
-    <option name="y" value="177" />
+    <option name="x" value="782" />
+    <option name="y" value="106" />
     <option name="width" value="1313" />
     <option name="height" value="877" />
   </component>
@@ -242,7 +243,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="616" y="177" width="1313" height="877" extended-state="0" />
+    <frame x="782" y="106" width="1313" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -276,6 +277,19 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/BuilderCoche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Coche.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">

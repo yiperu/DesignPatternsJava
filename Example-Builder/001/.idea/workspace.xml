@@ -118,6 +118,7 @@
         <option value="$PROJECT_DIR$/src/BuilderCoche.java" />
         <option value="$PROJECT_DIR$/src/ConstructorCocheBase.java" />
         <option value="$PROJECT_DIR$/src/ConstructorCocheMedio.java" />
+        <option value="$PROJECT_DIR$/src/ConstructorCocheFull.java" />
       </list>
     </option>
   </component>
@@ -373,6 +374,23 @@
             <element signature="e#496#497#0" expanded="true" />
             <element signature="e#554#555#0" expanded="true" />
             <element signature="e#604#605#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConstructorCocheFull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+          <folding>
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
           </folding>
         </state>
       </provider>

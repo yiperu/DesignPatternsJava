@@ -74,6 +74,8 @@
         <option value="$PROJECT_DIR$/src/ComponentesRojos.java" />
         <option value="$PROJECT_DIR$/src/Boton.java" />
         <option value="$PROJECT_DIR$/src/BotonAzul.java" />
+        <option value="$PROJECT_DIR$/src/BotonRojo.java" />
+        <option value="$PROJECT_DIR$/src/Lista.java" />
       </list>
     </option>
   </component>
@@ -346,6 +348,34 @@
             <element signature="e#135#136#0" expanded="true" />
             <element signature="e#181#182#0" expanded="true" />
             <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BotonRojo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -9,7 +9,7 @@ public class ComponentesAzules implements Componentes {
 
     @Override
     public Boton getBoton() {
-        return new BotonAzul;
+        return new BotonAzul();
     }
 
     @Override

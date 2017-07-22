@@ -7,11 +7,11 @@ public abstract class BuilderCoche {
     // - - - -
 
     public Coche getCoche() {
-        return coche;
+        return this.coche;
     }
 
-    public void setCoche(Coche coche) {
-        this.coche = coche;
+    public void crearNodeCoche() {
+        this.coche = new Coche();
     }
 
     // - - - -  Abstrac methods

@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/src/IArchivo.java" />
         <option value="$PROJECT_DIR$/src/CreadorAbstracto.java" />
         <option value="$PROJECT_DIR$/src/ArchivoAudio.java" />
+        <option value="$PROJECT_DIR$/src/ArchivoVideo.java" />
       </list>
     </option>
   </component>
@@ -282,6 +283,17 @@
           <folding>
             <element signature="e#168#169#0" expanded="true" />
             <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArchivoVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
           </folding>
         </state>
       </provider>
